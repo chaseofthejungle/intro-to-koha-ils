@@ -23,4 +23,6 @@ TODO: A brief introductory guide to the Koha Integrated Library System.
 
 ## 3. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
+* *[Official Website of Koha Library Software](https://koha-community.org/)*
+* *[A Brief Introduction to Koha ILS and its Modules (PDF)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?params=/context/libphilprac/article/15319/&path_info=auto_convert.pdf)*
+* *[Innovative Interfaces Library Software Products and Services Page](https://www.iii.com/products/)*
