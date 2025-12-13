@@ -1,5 +1,6 @@
-# intro-to-koha-ils
-TODO: A brief introductory guide to the Koha Integrated Library System.
+# Intro to Koha ILS Overview Guide
+
+**Description/Overview:** The Koha Integrated Library System (ILS) provides an internationally utilized open-souce solution for various public-facing institutions libraries, including ones in various schools and general township and emphasizing specialized fields. Koha was specifically developed to take advantage of the benefits of open-source licensing: it is community-based and free to modify and redistribute the code of, which instills confidence in collections monitoring and operations management.
 
 #### Table of Contents
 
