@@ -6,7 +6,8 @@
 
 1. [History](#history)
 2. [Features](#features)
-3. [Supplemental Resources](#supplemental)
+3. [Modules](#modules)
+4. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -22,7 +23,13 @@
 
 <hr />
 
-## 3. <a name="supplemental">Supplemental Resources</a>
+## 3. <a name="modules">Modules</a>
+
+(TODO)
+
+<hr />
+
+## 4. <a name="supplemental">Supplemental Resources</a>
 
 * *[Official Website of Koha Library Software](https://koha-community.org/)*
 * *[A Brief Introduction to Koha ILS and its Modules (PDF)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?params=/context/libphilprac/article/15319/&path_info=auto_convert.pdf)*
